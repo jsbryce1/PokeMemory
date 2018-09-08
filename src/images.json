@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "clicked": false,
+    "image":
+      "https://cdn.bulbagarden.net/upload/2/21/001Bulbasaur.png"
+  },
+  {
+    "id": 2,
+    "name": "charmander",
+    "clicked": false,
+    "image":
+      "https://i0.wp.com/cdn.bulbagarden.net/upload/7/73/004Charmander.png"
+  },
+  {
+    "id": 3,
+    "name": "Squirtle",
+    "clicked": false,
+    "image":
+      "https://cdn.bulbagarden.net/upload/3/39/007Squirtle.png"
+  },
+  {
+    "id": 4,
+    "name": "pidgeotto",
+    "clicked": false,
+    "image":
+      "https://cdn.bulbagarden.net/upload/7/7a/017Pidgeotto.png"
+  },
+  {
+    "id": 5,
+    "name": "pikachu",
+    "clicked": false,
+    "image":
+      "https://cdn.bulbagarden.net/upload/0/0d/025Pikachu.png"
+  },
+  {
+    "id": 6,
+    "name": "raichu",
+    "clicked": false,
+    "image":
+      "https://cdn.bulbagarden.net/upload/8/88/026Raichu.png"
+  },
+  {
+    "id": 7,
+    "name": "vulpix",
+    "clicked": false,
+    "image":
+      "https://cdn.bulbagarden.net/upload/6/60/037Vulpix.png"
+  },
+  {
+    "id": 8,
+    "name": "jigglypuff",
+    "clicked": false,
+    "image":
+      "https://cdn.bulbagarden.net/upload/3/3e/039Jigglypuff.png"
+  },
+  {
+    "id": 9,
+    "name": "vileplume",
+    "clicked": false,
+    "image":
+      "https://cdn.bulbagarden.net/upload/6/6a/045Vileplume.png"
+  },
+  {
+    "id": 10,
+    "name": "psyduck",
+    "clicked": false,
+    "image":
+      "https://cdn.bulbagarden.net/upload/5/53/054Psyduck.png"
+  },
+  {
+    "id": 11,
+    "name": "abra",
+    "clicked": false,
+    "image":
+      "https://cdn.bulbagarden.net/upload/6/62/063Abra.png"
+  },
+  {
+    "id": 12,
+    "name": "chansey",
+    "clicked": false,
+    "image":
+      "https://cdn.bulbagarden.net/upload/c/cd/113Chansey.png"
+  },
+  {
+    "id": 13,
+    "name": "gyarados",
+    "clicked": false,
+    "image":
+      "https://cdn.bulbagarden.net/upload/4/41/130Gyarados.png"
+  },
+  {
+    "id": 14,
+    "name": "ditto",
+    "clicked": false,
+    "image":
+      "https://cdn.bulbagarden.net/upload/3/36/132Ditto.png"
+  },
+  {
+    "id": 15,
+    "name": "mewtwo",
+    "clicked": false,
+    "image":
+      "https://cdn.bulbagarden.net/upload/7/78/150Mewtwo.png"
+  },
+  {
+    "id": 16,
+    "name": "Mew",
+    "clicked": false,
+    "image":
+      "https://cdn.bulbagarden.net/upload/b/b1/151Mew.png"
+  }
+]
+
